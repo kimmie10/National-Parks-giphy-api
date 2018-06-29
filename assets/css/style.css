@@ -1,0 +1,39 @@
+#npBtn {
+    margin: 30px;
+    padding: 10px;
+}
+
+.parks-btn {
+    margin: 5px;
+    font-size: medium;
+    background-color: aqua;
+}
+
+#nationalParksForm {
+    float: right;
+    margin: 30px;
+}
+
+#addNP {
+    background-color: crimson;
+    color: white;
+    font-size: xx-large;
+    padding: 5px;
+}
+
+label {
+    font-weight: bolder;
+}
+
+#nationalParksInput {
+    background-color: yellow;
+    font-weight: bolder;
+    padding: 10px;
+}
+
+#subtractNP {
+    float: right;
+    color: red;
+    font-weight: bolder;
+    font-size: x-large;
+}
